@@ -1,31 +1,90 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: KazuoID # Your GitHub organization or username, where this repository lives
+repo: upptime-v2 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: v1
+    url: https://www.adrianmh.my.id
+  - name: v2
+    url: https://www.alfeus.my.id
+  - name: v3
+    url: https://www.angelarp.my.id
+  - name: v4
+    url: https://www.angellll.my.id
+  - name: v5
+    url: https://www.christianfelix.my.id
+  - name: v6
+    url: https://www.davin.my.id
+  - name: v7
+    url: https://www.elia3.my.id
+  - name: v8
+    url: https://www.fidelisalledeo.my.id
+  - name: v9
+    url: https://www.filemon.my.id
+  - name: v10
+    url: https://www.patricio1.my.id
+  - name: v11
+    url: https://www.hubertushugo.my.id
+  - name: v12
+    url: https://Www//imanuel.my.id
+  - name: v13
+    url: https://www.pntaaa.my.id
+  - name: v14
+    url: https://www.jasminedaniela.my.id
+  - name: v15
+    url: https://www.jojoandros.my.id
+  - name: v16
+    url: https://www.nathan18.my.id
+  - name: v17
+    url: https://www.jovianalexa.my.id
+  - name: v18
+    url: https://www.krismenda.my.id
+  - name: v19
+    url: https://www.leonjoseph17.my.id
+  - name: v20
+    url: https://www.luckymarvel1.my.id
+  - name: v21
+    url: https://ryuxyro.my.id
+  - name: v22
+    url: https://www.maxfrederick.my.id
+  - name: v23
+    url: https://www.michaeladrimiwa.my.id
+  - name: v24 (not found)
+    url: https://github.com
+  - name: v25
+    url: https://www.putraalikramsadewa.my.id
+  - name: v26
+    url: https://www.revaldo.my.id
+  - name: v27
+    url: https://www.reyhanhrtnt.my.id 
+  - name: v28
+    url: https://www.rizkydashboard11.my.id
+  - name: v29
+    url: https://www.tessalonica.my.id
+  - name: v30
+    url: https://www.vincensius88.my.id
+  - name: v31
+    url: https://www.giovan.my.id
+  - name: v32
+    url: https://www.sjayaaa.my.id
+  - name: v33
+    url: https://www.wisputra0202.my.id
+  - name: v34
+    url: https://www.yohaneselkannathanael.my.id
+
+#  - name:
+#    url: https://
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime-v2
+  logoUrl: https://raw.githubusercontent.com/KazuoID/upptime-v2/master/static/img/icon.svg
+  name: tekaje Upptime
+  introTitle: "**Upptime** is a website monitor for status page, monitoring some student website in **X TKJ 2** class"
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/KazuoID/upptime-v2).
   navbar:
     - title: Status
       href: /
