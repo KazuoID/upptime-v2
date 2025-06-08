@@ -3,73 +3,73 @@ owner: KazuoID # Your GitHub organization or username, where this repository liv
 repo: upptime-v2 # The name of this repository
 
 sites:
-  - name: v1
+  - name: v1 (adrian)
     url: https://www.adrianmh.my.id
-  - name: v2
+  - name: v2 (aal)
     url: https://www.alfeus.my.id
-  - name: v3
+  - name: v3 (ardhana)
     url: https://www.angelarp.my.id
-  - name: v4
+  - name: v4 (angelina)
     url: https://www.angellll.my.id
-  - name: v5
+  - name: v5 (felix)
     url: https://www.christianfelix.my.id
-  - name: v6
+  - name: v6 (davin)
     url: https://www.davin.my.id
-  - name: v7
+  - name: v7 (elia)
     url: https://www.elia3.my.id
-  - name: v8
+  - name: v8 (fidelis)
     url: https://www.fidelisalledeo.my.id
-  - name: v9
+  - name: v9 (filemon)
     url: https://www.filemon.my.id
-  - name: v10
+  - name: v10 (gabriel)
     url: https://www.patricio1.my.id
-  - name: v11
+  - name: v11 (hugo)
     url: https://www.hubertushugo.my.id
-  - name: v12
+  - name: v12 (imanuel)
     url: https://www.imanuel.my.id
-  - name: v13
+  - name: v13 (sandy)
     url: https://www.pntaaa.my.id
-  - name: v14
+  - name: v14 (jasmine)
     url: https://www.jasminedaniela.my.id
-  - name: v15
+  - name: v15 (jojo)
     url: https://www.jojoandros.my.id
-  - name: v16
+  - name: v16 (nathan)
     url: https://www.nathan18.my.id
-  - name: v17
+  - name: v17 (jovian)
     url: https://www.jovianalexa.my.id
-  - name: v18
+  - name: v18 (krismenda)
     url: https://www.krismenda.my.id
-  - name: v19
+  - name: v19 (leon)
     url: https://www.leonjoseph17.my.id
-  - name: v20
+  - name: v20 (lucky)
     url: https://www.luckymarvel1.my.id
-  - name: v21
+  - name: v21 (adit / rizqi)
     url: https://www.ryuxyro.my.id
-  - name: v22
+  - name: v22 (max)
     url: https://www.maxfrederick.my.id
-  - name: v23
+  - name: v23 (michael)
     url: https://www.michaeladrimiwa.my.id
   - name: v24 (not found)
     url: https://
-  - name: v25
+  - name: v25 (dewa)
     url: https://www.putraalikramsadewa.my.id
-  - name: v26
+  - name: v26 (aldo)
     url: https://www.revaldo.my.id
-  - name: v27
+  - name: v27 (reyhan)
     url: https://www.reyhanhrtnt.my.id 
-  - name: v28
+  - name: v28 (rizky)
     url: https://www.rizkydashboard11.my.id
-  - name: v29
+  - name: v29 (tessa)
     url: https://www.tessalonica.my.id
-  - name: v30
+  - name: v30 (vincen)
     url: https://www.vincensius88.my.id
-  - name: v31
+  - name: v31 (gio)
     url: https://www.giovan.my.id
-  - name: v32
+  - name: v32 (widi)
     url: https://www.sjayaaa.my.id
-  - name: v33
+  - name: v33 (wisnu)
     url: https://www.wisputra0202.my.id
-  - name: v34
+  - name: v34 (elkan)
     url: https://www.yohaneselkannathanael.my.id
     
 #  - name:
