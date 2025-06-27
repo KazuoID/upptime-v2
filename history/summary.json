@@ -4,10 +4,10 @@
     "url": "https://www.adrianmh.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.adrianmh.my.id.ico",
     "slug": "v1-adrian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 512,
@@ -16,6 +16,7 @@
     "timeMonth": 512,
     "timeYear": 512,
     "dailyMinutesDown": {
+      "2025-06-27": 2,
       "2025-06-19": 38
     }
   },
@@ -216,7 +217,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 61,
+      "2025-06-27": 1198,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -363,7 +364,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-06-27": 61,
+      "2025-06-27": 1198,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -474,7 +475,7 @@
     "timeMonth": 157,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-06-27": 61,
+      "2025-06-27": 1198,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
