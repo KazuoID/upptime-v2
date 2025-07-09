@@ -218,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-09": 61,
+      "2025-07-09": 237,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -311,9 +311,9 @@
     "url": "https://www.nathan18.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.nathan18.my.id.ico",
     "slug": "v16-nathan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -322,7 +322,9 @@
     "timeWeek": 424,
     "timeMonth": 438,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-09": 0
+    }
   },
   {
     "name": "v17 (jovian)",
@@ -377,7 +379,7 @@
     "timeMonth": 0,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-07-09": 61,
+      "2025-07-09": 238,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
@@ -500,7 +502,7 @@
     "timeMonth": 0,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-07-09": 61,
+      "2025-07-09": 238,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
