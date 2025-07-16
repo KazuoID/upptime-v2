@@ -221,7 +221,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-16": 63,
+      "2025-07-16": 1344,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -322,18 +322,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nathan18.my.id.ico",
     "slug": "v16-nathan",
     "status": "down",
-    "uptime": "81.71%",
+    "uptime": "79.82%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.73%",
-    "uptimeMonth": "77.39%",
-    "uptimeYear": "81.71%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "74.46%",
+    "uptimeYear": "79.82%",
     "time": 430,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 451,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2025-07-16": 63,
+      "2025-07-16": 1344,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -396,7 +396,7 @@
     "timeMonth": 0,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2025-07-16": 63,
+      "2025-07-16": 1344,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -526,7 +526,7 @@
     "timeMonth": 0,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2025-07-16": 63,
+      "2025-07-16": 1344,
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
@@ -680,10 +680,10 @@
     "url": "https://www.giovan.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.giovan.my.id.ico",
     "slug": "v31-gio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 414,
@@ -691,7 +691,9 @@
     "timeWeek": 367,
     "timeMonth": 421,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-16": 1
+    }
   },
   {
     "name": "v32 (widi)",
